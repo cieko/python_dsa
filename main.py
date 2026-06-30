@@ -1,2 +1,3 @@
 if __name__ == '__main__':
-    pass
+    a: int = 2
+    print(a)
